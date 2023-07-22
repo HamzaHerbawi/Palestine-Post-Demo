@@ -1,4 +1,4 @@
-<p align="center"><a href="http://http://palpost.me/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/9/9a/Palestine_Post_logo.png" width="400"></a></p>
+<p align="center"><a href="http://palpost.me/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/9/9a/Palestine_Post_logo.png" width="400"></a></p>
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
