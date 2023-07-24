@@ -29,20 +29,15 @@ Postal service development and its consolidation have led to an increasing numbe
 Mail operations will be simplified and employees will be able to track packages more easily through a website/application similar to the international postal system mainly for packages with tracking numbers non-standard where they are exported, distributed, and archived electronically.</p>
 
 ## Why !
-
+When I was in my final year of university, I faced the problem of not being able to track my postal packages. This inspired me to do my graduation project on how to improve the Palestinian Post. I contacted the Palestinian Ministry of Communications and worked with them to create a demo site that would allow users to track their packages. The features of this demo site were later added to the main system on the [official Palestinian Post website](https://www.palpost.ps/).
 
 ## Tool
-<!-- - **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)** -->
+- **[Laravel](https://laravel.com/)**
+- **[Voyager](https://voyager.devdojo.com)**
+- **[Postman](https://www.postman.com/)**
+- **[Visual Studio Code](https://code.visualstudio.com/)**
+- **[MySQL](https://www.mysql.com/)**
+- **[DigitalOcean](https://www.digitalocean.com/)**
+- **[NGINX](https://www.nginx.com/)**
+
 
